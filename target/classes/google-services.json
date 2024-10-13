@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909891867038",
+    "project_id": "notificacionespush-b2600",
+    "storage_bucket": "notificacionespush-b2600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909891867038:android:04b092c4b6ea8e9583468f",
+        "android_client_info": {
+          "package_name": "com.mycompany.appmovil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdv7e_LDEYZI4wblhDUZA06e8cWQ0NJEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
